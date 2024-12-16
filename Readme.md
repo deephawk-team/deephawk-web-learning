@@ -6,6 +6,7 @@ INSTALLATION
 - NX repo
 - make libs logic
 - make libs common-components
+- make eslint check
 
 ANGULAR MATERIAL 
 - Angular material 
@@ -17,6 +18,11 @@ ANGULAR MATERIAL
 NGRX
 - Store with fake values
 - Effect to provide values in the store
+	- clients
+ 	- mappers
+ 	- store
+ 	- selectors
+  
 - Filter by effect & reactive logic 
 
 NAVIGATION
