@@ -7,6 +7,7 @@ INSTALLATION
 - make libs logic
 - make libs common-components
 - make eslint check
+- make github pipeline
 
 ANGULAR MATERIAL 
 - Angular material 
