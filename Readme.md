@@ -35,6 +35,12 @@ NAVIGATION
 - hero details as modal
 - common modal layout
 
+CLEAN CODE
+- split functions by get/transform/return statement
+- reduce parameter count
+- remove else
+- remove let & var
+
 TESTS
 - Unit test : filter & authent guard
 - component test : display list
